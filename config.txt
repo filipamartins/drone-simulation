@@ -1,0 +1,8 @@
+1280, 800
+Prod_A,Prod_B,Prod_C,Prod_D
+5
+10, 20, 1
+
+2
+Warehouse1 xy: 100, 200 prod:Prod_A, 10,Prod_D, 10,Prod_C, 20
+Warehouse2 xy: 800, 500 prod:Prod_B, 10,Prod_C, 50,Prod_D, 30

@@ -1,0 +1,8 @@
+15:29:49 [Simulation 1392]: Running.
+
+15:29:49 Warehouse 2 pid=1395 created.
+15:29:49 Warehouse 1 pid=1394 created.
+15:29:54 [Warehouse 1395]: Exited.
+15:29:54 [Warehouse 1394]: Exited.
+15:29:59 Warehouse 1 received new stock
+15:29:59 [Simulation 1392]: Exited.
